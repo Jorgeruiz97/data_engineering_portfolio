@@ -9,6 +9,9 @@ This repo contains a set of example pipelines built with open source technologie
 - Apache Icecberg
 
 ## Open Tasks:
+[] Implement PROTOs
+[] Write data producers
+[] Add Apache kafka
 [] Add a dashboarding software {superset,granfana}
 [] Add an interactive querying engine {duckDB,Impala}
 [] Add an PostgresDB
@@ -18,3 +21,4 @@ This repo contains a set of example pipelines built with open source technologie
 [] ReWrite same pipelines with Apache Beam
 [] Upgrade to use Kubernetes
 [] Add graph database
+[] Setup nginx to match all the UIs
